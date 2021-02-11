@@ -1,0 +1,6 @@
+C:\Users\Asus\source\repos\MCCDay9\MCCDay9\bin\Debug\MCCDay9.exe.config
+C:\Users\Asus\source\repos\MCCDay9\MCCDay9\bin\Debug\MCCDay9.exe
+C:\Users\Asus\source\repos\MCCDay9\MCCDay9\bin\Debug\MCCDay9.pdb
+C:\Users\Asus\source\repos\MCCDay9\MCCDay9\obj\Debug\MCCDay9.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\MCCDay9\MCCDay9\obj\Debug\MCCDay9.exe
+C:\Users\Asus\source\repos\MCCDay9\MCCDay9\obj\Debug\MCCDay9.pdb
